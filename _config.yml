@@ -27,7 +27,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://snowdj.github.io/boot/
-
+base-url: http://snowdj.github.io/boot
 # Pagination (added this line)
 paginate: 2
 
