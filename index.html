@@ -6,7 +6,7 @@ tagline: <a href="http://bit.ly/LColladoTorres">L. Collado-Torres</a>'s academic
 
 {% for post in paginator.posts %}
    <!-- here add you post markup -->
-   <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
    <p class="author">
     <span class="date">{{post.date | date: "%Y-%m-%d"}}</span>
   </p>

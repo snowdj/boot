@@ -6,6 +6,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 markdown: rdiscount
 
+url : http://snowdj.github.io/boot
+baseurl : http://snowdj.github.io/boot
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
@@ -27,7 +29,8 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://snowdj.github.io/boot/
-base-url: http://snowdj.github.io/boot
+
+
 # Pagination (added this line)
 paginate: 2
 
