@@ -1,3 +1,9 @@
+---
+layout: post
+title: Git basic command
+---
+
+
 Git basic command
 ========================================================
 source: [ruanyifeng](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
